@@ -1,0 +1,17 @@
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/bin/Debug/netcoreapp2.1/Clearn.deps.json
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/bin/Debug/netcoreapp2.1/Clearn.runtimeconfig.json
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/bin/Debug/netcoreapp2.1/Clearn.runtimeconfig.dev.json
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/bin/Debug/netcoreapp2.1/Clearn.dll
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/bin/Debug/netcoreapp2.1/Clearn.pdb
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.csprojAssemblyReference.cache
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.csproj.CoreCompileInputs.cache
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.AssemblyInfoInputs.cache
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.AssemblyInfo.cs
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.dll
+/Users/mr.hong/Desktop/CLearn/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.pdb
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.csprojAssemblyReference.cache
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.csproj.CoreCompileInputs.cache
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.AssemblyInfoInputs.cache
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.AssemblyInfo.cs
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.dll
+/Users/mr.hong/Desktop/TTGoUnity/Clearn/Clearn/obj/Debug/netcoreapp2.1/Clearn.pdb
